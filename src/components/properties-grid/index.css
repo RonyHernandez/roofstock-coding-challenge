@@ -1,0 +1,50 @@
+a {
+    text-decoration: none;
+}
+
+.grid-list {
+    display: 'flex';
+    flex-wrap: 'wrap';
+}
+
+.prop-spec {
+    font-size: 0.8em;
+    margin-left: 5px;
+    margin-right: 45%;
+    float:left;
+}
+
+.prop-spec-address {
+    font-size: 0.8em;
+    margin-left: 5px;
+    margin-right: 80%;
+    float:left;
+}
+
+.prop-spec-value {
+    font-size: 1.2em;
+    display: block;
+    text-align: left;
+    margin-left: 10px;
+    color: #757575
+}
+
+.prop-spec-value-address {
+    font-size: 1.2em;
+    display: block;
+    text-align: left;
+    margin-left: 10px;
+    color: #757575
+}
+
+.property-img-table{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    border-radius: 50%;
+
+    color: #0000;
+    object-fit: cover;
+    text-align: center;
+    text-indent: 10000px;
+}
