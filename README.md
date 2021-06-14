@@ -1,4 +1,4 @@
-## `instructions to run the Roofstock coding challenge project.`
+## `Instructions to run the Roofstock coding challenge project.`
 
 1st: Clone the Repository to your local machine using Git or download the Zip Files.
 
@@ -11,14 +11,17 @@
 
 2nd: Please be sure you have the most recent version of NodeJS and Yarn installed,  
             
-        If not please install from here: https://nodejs.dev/download/ 
+        If not please install from here: https://nodejs.dev/download/.
+        
         After NodeJS installation, please go to your terminal and write/run npm install --global yarn
 
                            
-3rd: Go to the project files from your terminal and write yarn install and press enter that will install all the dependencies the project needs.
+3rd: 
+      Go to the project files from your terminal and write yarn install and press enter that will install all the dependencies the project needs.
 
-4th: On your terminal and write yarn start and press enter that will start the local server and will open a port so you can see the project.
-        go to your browser and access http://localhost:3000/
+4th: 
+      On your terminal and write yarn start and press enter that will start the local server and will open a port so you can see the project.
+        go to your browser and access http://localhost:3000/ .
 
 ### `yarn install`
 
